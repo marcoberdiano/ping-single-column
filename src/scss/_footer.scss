@@ -1,0 +1,25 @@
+.footer-container{
+    text-align: center;
+    margin-top: 5em;
+    margin-bottom: 1em;
+    .social-links {
+        display: flex;
+        gap: 20px;
+        justify-content:center;
+        margin: 1em 0em;
+        .facebook, .twitter, .instagram {
+            border-radius: 50%;
+            border: 1px solid $PaleBlue;
+            padding: 5px;
+
+            &:hover{
+                background-color: $Blue;
+                border: none;
+            }
+        }
+    }
+    .copyright {
+        margin: 1em;
+        color: $Gray;
+    }
+}
