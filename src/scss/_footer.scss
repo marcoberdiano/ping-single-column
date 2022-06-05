@@ -22,4 +22,12 @@
         margin: 1em;
         color: $Gray;
     }
+
+    .attribution {
+        color: $Gray;
+        font-size: 0.8em;
+        a {
+            color: black;
+        }
+    }
 }

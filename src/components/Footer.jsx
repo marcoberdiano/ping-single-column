@@ -8,6 +8,10 @@ const Footer = () => {
       <FaInstagram  className='instagram' size={30} color='hsl(223, 87%, 63%)' />
     </div>
     <p className='copyright'>&copy; Copyright Ping. All rights reserved.</p>
+    <p class="attribution">
+      Challenge by <a  rel="noopener" href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+      Coded by <a rel="noopener"  href="https://www.frontendmentor.io/profile/marcoberdiano">Marco</a>.
+    </p>
   </footer> );
 }
  
