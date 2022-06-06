@@ -92,6 +92,7 @@
   gap: 20px;
   justify-content: center;
   margin: 1em 0em;
+  color: hsl(223deg, 87%, 63%);
 }
 .footer-container .social-links .facebook, .footer-container .social-links .twitter, .footer-container .social-links .instagram {
   border-radius: 50%;
@@ -100,6 +101,7 @@
 }
 .footer-container .social-links .facebook:hover, .footer-container .social-links .twitter:hover, .footer-container .social-links .instagram:hover {
   background-color: hsl(223deg, 87%, 63%);
+  color: #FFF;
   border: none;
 }
 .footer-container .copyright {
