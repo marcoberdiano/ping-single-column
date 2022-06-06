@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://benevolent-lolly-9ccd62.netlify.app/](https://benevolent-lolly-9ccd62.netlify.app/)
+- Live Site URL: [https://ping-single-column-taupe.vercel.app/](https://ping-single-column-taupe.vercel.app/)
 
 ## My process
 
